@@ -5,6 +5,7 @@ do {
     console.log(`-      CALCULADORA      -`)
     console.log(`-------------------------`)
 
+    console.log(`+ --> ADIÇÃO`);
     console.log(`- --> SUBTRAÇÃO`);
     console.log(`* --> MULTIPLICAÇÃO`);
     console.log(`/ --> DIVISÃO`);
